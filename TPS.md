@@ -24,7 +24,7 @@
 
 **Command Lines for Running Cluster**
 ```
-[    I just follow the document that you supported .  ]
+[    使用的官方文档提供的命令  ]
 ```
 
 **Peak TPS**
@@ -94,5 +94,4 @@ https://github.com/BigMonsterYY/goquarkchain/blob/master/tests/loadtest/deployer
 
 **Additional Comment**
 
-[If you have special setup, e.g., running a single cluster over multiple machines, the above questionnaire might not fit. Note down
-whatever you want us to know here to help evaluate the result.]
+[我使用了windows10自带的游戏录制工具，所以录出来的视频没有看到我的配置，这win10的它没有录到我点出浏览器查看配置，抱歉。]
